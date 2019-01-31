@@ -34,7 +34,7 @@ $(window).keydown(function (e) {
   }
 });
 
-GRID_SIZE = 60;
+GRID_SIZE = 50;
 
 Matrix = function (rows, columns) {
   var i, j;
